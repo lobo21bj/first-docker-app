@@ -1,0 +1,14 @@
+{
+  "name": "first-docker-app",
+  "version": "1.0.0",
+  "description": "First App to play around Docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"This is a test\");"
+  },
+  "author": "Nicolas Fischer",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
